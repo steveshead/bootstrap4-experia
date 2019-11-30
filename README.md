@@ -1,6 +1,6 @@
 # Bootstrap 4 - Experia Theme
 
-The Experia theme is based on Bootstrap 4 and includes smooth scroll and scrollspy, and the ability to customize some of the Bootstrap 4 defaults. View the [demo](https://steveshead.github.io/bootstrap4-experia) site [here](https://steveshead.github.io/bootstrap4-experia).
+The Experia theme is based on Bootstrap 4 and includes smooth scroll and scrollspy, and the ability to customize some of the Bootstrap 4 defaults. View the [demo](https://steveshead.github.io/bootstrap4-experia/) site [here](https://steveshead.github.io/bootstrap4-experia/).
 
 
 ### Smooth Scroll
@@ -100,6 +100,6 @@ $link-color: #00bc8c;
 $link-hover-decoration: none;
 ```
 
-View the [demo](https://steveshead.github.io/bootstrap4-experia) site [here](https://steveshead.github.io/bootstrap4-experia).
+View the [demo](https://steveshead.github.io/bootstrap4-experia/) site [here](https://steveshead.github.io/bootstrap4-experia/).
 
 Note this template isn't perfect.  You may need to make adjustments for it to work for you, specifically to make it fully responsive. If you improve it in any way, please let me know. I'd love to see what has changed and been improved.
